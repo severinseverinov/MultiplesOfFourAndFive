@@ -1,3 +1,3 @@
 # Multiples Of Four And Five
 
-### Multiples Of Four And Five For input With Java
+### Multiples Of Four And Five From One To Input With Java
